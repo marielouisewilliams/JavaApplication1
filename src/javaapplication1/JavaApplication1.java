@@ -20,7 +20,7 @@ public class JavaApplication1 {
     
     public static void main(String[] args) {
         JavaApplication1 testapp = new JavaApplication1();
-        testapp.hello("Marielou");
+        testapp.hello("Marie Louise");
     }
     
 }
